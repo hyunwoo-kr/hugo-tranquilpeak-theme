@@ -121,37 +121,37 @@
 
 ## DATE ##
 - id: "date.month.january"
-  translation: "January"
+  translation: "1월"
 
 - id: "date.month.february"
-  translation: "February"
+  translation: "2월"
 
 - id: "date.month.march"
-  translation: "March"
+  translation: "3월"
 
 - id: "date.month.april"
-  translation: "April"
+  translation: "4월"
 
 - id: "date.month.may"
-  translation: "May"
+  translation: "5월"
 
 - id: "date.month.june"
-  translation: "June"
+  translation: "6월"
 
 - id: "date.month.july"
-  translation: "July"
+  translation: "7월"
 
 - id: "date.month.august"
-  translation: "August"
+  translation: "8월"
 
 - id: "date.month.september"
-  translation: "September"
+  translation: "9월"
 
 - id: "date.month.october"
-  translation: "October"
+  translation: "10월"
 
 - id: "date.month.november"
-  translation: "November"
+  translation: "11월"
 
 - id: "date.month.december"
-  translation: "December"
+  translation: "12월"

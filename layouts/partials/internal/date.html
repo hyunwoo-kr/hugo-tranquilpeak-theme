@@ -8,5 +8,5 @@
     {{ .Date.Format $.Site.Params.dateFormat }}
   {{ end }}
 {{ else }}
-  {{ i18n (lower (printf "date.month.%s" .Date.Month)) }} {{ .Date.Day }}, {{ .Date.Year }}
+  {{ .Date.Year }}{{"년"}} {{ i18n (lower (printf "date.month.%s" .Date.Month)) }} {{ .Date.Day }}{{"일"}}
 {{ end }}
